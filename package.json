@@ -1,0 +1,20 @@
+{
+  "name": "fitbit",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "oauth": "~0.9.11",
+    "passport": "~0.2.0",
+    "passport-oauth": "~1.0.0"
+  },
+  "devDependencies": {
+    "oauth": "~0.9.11",
+    "johnny-five": "~0.7.28"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
